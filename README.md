@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<h1 style="color: #333; text-align: center;">Dart Programs</h1>
-
 <p>Welcome to the Dart Programs repository! This repository contains various Dart programs that demonstrate the core concepts of the Dart programming language.</p>
 
 <h2 style="color: #666;">Table of Contents</h2>
